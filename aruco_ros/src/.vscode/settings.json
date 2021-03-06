@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/epsilon/inha_ws/devel/lib/python2.7/dist-packages",
+        "/home/epsilon/selfcar_ws/devel/lib/python2.7/dist-packages",
+        "/home/epsilon/IRL_ws/devel/lib/python2.7/dist-packages",
+        "/home/epsilon/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ]
+}

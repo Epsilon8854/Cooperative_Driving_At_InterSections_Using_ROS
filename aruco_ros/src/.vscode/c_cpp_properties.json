@@ -1,0 +1,61 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/epsilon/inha_ws/devel/include/**",
+                "/home/epsilon/selfcar_ws/devel/include/**",
+                "/home/epsilon/IRL_ws/devel/include/**",
+                "/home/epsilon/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/epsilon/selfcar_ws/src/Line_detection_lidar/include/**",
+                "/home/epsilon/selfcar_ws/src/Object_detection/include/**",
+                "/home/epsilon/selfcar_ws/src/SC_Control/include/**",
+                "/home/epsilon/selfcar_ws/src/SC_Gps/include/**",
+                "/home/epsilon/selfcar_ws/src/SC_Imu/include/**",
+                "/home/epsilon/selfcar_ws/src/Sim_global_path/include/**",
+                "/home/epsilon/selfcar_ws/src/Sim_path_tracking/include/**",
+                "/home/epsilon/inha_ws/src/aruco_ros/aruco/include/**",
+                "/home/epsilon/inha_ws/src/aruco_detect/include/**",
+                "/home/epsilon/catkin_ws/src/aruco_prac/include/**",
+                "/home/epsilon/inha_ws/src/aruco_ros/aruco_ros/include/**",
+                "/home/epsilon/catkin_ws/src/cam_processing/include/**",
+                "/home/epsilon/selfcar_ws/src/camera_calibration_parsers/include/**",
+                "/home/epsilon/selfcar_ws/src/camera_info_manager/include/**",
+                "/home/epsilon/selfcar_ws/src/vision_opencv/cv_bridge/include/**",
+                "/home/epsilon/selfcar_ws/src/geographic_info/geodesy/include/**",
+                "/home/epsilon/selfcar_ws/src/global_path_planner/include/**",
+                "/home/epsilon/catkin_ws/src/grad_traj_optimization/include/**",
+                "/home/epsilon/catkin_ws/src/image_flip/include/**",
+                "/home/epsilon/selfcar_ws/src/vision_opencv/image_geometry/include/**",
+                "/home/epsilon/catkin_ws/src/image_transport/include/**",
+                "/home/epsilon/selfcar_ws/src/irlgps/include/**",
+                "/home/epsilon/IRL_ws/src/make_waypoint/include/**",
+                "/home/epsilon/selfcar_ws/src/novatel_gps_driver/novatel_gps_driver/include/**",
+                "/home/epsilon/selfcar_ws/src/parking_mission/include/**",
+                "/home/epsilon/IRL_ws/src/pcan/include/**",
+                "/home/epsilon/selfcar_ws/src/preprocesss/include/**",
+                "/home/epsilon/selfcar_ws/src/rosserial/rosserial_server/include/**",
+                "/home/epsilon/selfcar_ws/src/rosserial/rosserial_test/include/**",
+                "/home/epsilon/catkin_ws/src/selfcar_semina/include/**",
+                "/home/epsilon/selfcar_ws/src/tr_processing/include/**",
+                "/home/epsilon/selfcar_ws/src/traffic_cam/include/**",
+                "/home/epsilon/selfcar_ws/src/usb_cam/include/**",
+                "/home/epsilon/IRL_ws/src/vehicle_control/include/**",
+                "/home/epsilon/selfcar_ws/src/velodyne/velodyne_driver/include/**",
+                "/home/epsilon/selfcar_ws/src/velodyne/velodyne_laserscan/include/**",
+                "/home/epsilon/selfcar_ws/src/velodyne/velodyne_pointcloud/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
